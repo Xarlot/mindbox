@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxLibrary.Tests", "MindBoxLibrary.Tests\MindBoxLibrary.Tests.csproj", "{74765B02-C07A-47D2-A0F9-5F37BCFD8C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxLibrary", "MindBoxLibrary\MindBoxLibrary.csproj", "{C38AED72-AE6E-4F99-AAA9-C6C2646D2A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74765B02-C07A-47D2-A0F9-5F37BCFD8C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74765B02-C07A-47D2-A0F9-5F37BCFD8C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74765B02-C07A-47D2-A0F9-5F37BCFD8C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74765B02-C07A-47D2-A0F9-5F37BCFD8C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38AED72-AE6E-4F99-AAA9-C6C2646D2A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38AED72-AE6E-4F99-AAA9-C6C2646D2A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38AED72-AE6E-4F99-AAA9-C6C2646D2A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38AED72-AE6E-4F99-AAA9-C6C2646D2A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
